@@ -110,7 +110,7 @@ const spinner = {
 let globalSpinner;
 
 
-const getGlobalSpinner = (disableSpins = false) => {
+const getGlobalSpinner = (disableSpins = true) => {
   if(!globalSpinner) globalSpinner = new spin({ color: 'blue', succeedColor: 'green', spinner, disableSpins});
   return globalSpinner;
 }
