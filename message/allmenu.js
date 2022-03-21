@@ -1,5 +1,5 @@
-*hallo kak @${sender.split('@')[0]}👋 ${ucapanWaktu}*
-notes : Jangan spam ya kak, kasih jeda 5 detik agar bot tidak delay, okeh kak?
+*Hallo kak @${sender.split('@')[0]}👋 ${ucapanWaktu}*
+notes : Jangan spam ya, kasih jeda 5 detik agar bot tidak delay, okeh kak?
 
 *⌜ Grup Menu ⌟* 
 • ${prefix}welcome <enable/disable>
@@ -105,91 +105,6 @@ notes : Jangan spam ya kak, kasih jeda 5 detik agar bot tidak delay, okeh kak?
 • ${prefix}panda1
 • ${prefix}bird
 • ${prefix}koala
-
-*⌜ Hentai Menu ⌟* 
-• ${prefix}art
-• ${prefix}bts
-• ${prefix}exo
-• ${prefix}elf
-• ${prefix}loli
-• ${prefix}neko
-• ${prefix}waifu
-• ${prefix}shota
-• ${prefix}husbu
-• ${prefix}sagiri
-• ${prefix}shinobu
-• ${prefix}megumin
-• ${prefix}wallnime
-• ${prefix}chiisaihentai
-• ${prefix}trap
-• ${prefix}blowjob
-• ${prefix}yaoi
-• ${prefix}ecchi
-• ${prefix}hentai
-• ${prefix}ahegao
-• ${prefix}hololewd
-• ${prefix}sideoppai
-• ${prefix}animefeets
-• ${prefix}animebooty
-• ${prefix}animethighss
-• ${prefix}hentaiparadise
-• ${prefix}animearmpits
-• ${prefix}hentaifemdom
-• ${prefix}lewdanimegirls
-• ${prefix}biganimetiddies
-• ${prefix}animebellybutton
-• ${prefix}hentai4everyone
-• ${prefix}bj
-• ${prefix}ero
-• ${prefix}cum
-• ${prefix}feet
-• ${prefix}yuri
-• ${prefix}trap
-• ${prefix}lewd
-• ${prefix}feed
-• ${prefix}eron
-• ${prefix}solo
-• ${prefix}gasm
-• ${prefix}poke
-• ${prefix}anal
-• ${prefix}holo
-• ${prefix}tits
-• ${prefix}kuni
-• ${prefix}kiss
-• ${prefix}erok
-• ${prefix}smug
-• ${prefix}baka
-• ${prefix}solog
-• ${prefix}feetg
-• ${prefix}lewdk
-• ${prefix}waifu
-• ${prefix}pussy
-• ${prefix}femdom
-• ${prefix}cuddle
-• ${prefix}hentai
-• ${prefix}eroyuri
-• ${prefix}cum_jpg
-• ${prefix}blowjob
-• ${prefix}erofeet
-• ${prefix}holoero
-• ${prefix}classic
-• ${prefix}erokemo
-• ${prefix}fox_girl
-• ${prefix}futanari
-• ${prefix}lewdkemo
-• ${prefix}wallpaper
-• ${prefix}pussy_jpg
-• ${prefix}kemonomimi
-• ${prefix}nsfw_avatar
-• ${prefix}ngif
-• ${prefix}nsfw_neko_gif
-• ${prefix}random_hentai_gif
-
-*⌜ 18+ Menu ⌟* 
-• ${prefix}bokep <text>
-• ${prefix}xnxx <text>
-• ${prefix}4everproxy <search>
-• ${prefix}vpn
 
 *⌜ Islam Menu ⌟* 
 • ${prefix}listsurah
